@@ -278,6 +278,7 @@ table {
     max-width: 1440px;
     padding: 1.5rem;
     margin: 0 auto;
+    height: 100vh;
 }
 
 .populares {
